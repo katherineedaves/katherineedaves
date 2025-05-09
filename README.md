@@ -1,4 +1,11 @@
-## Hi there 👋
+## Katherine Daves
+### Experienced Administrative Professional with a Passion for Data Science and Business Analytics
+
+#### My name is Katherine Daves and I'm a Virginia Beach native, still located in the Hampton Roads area of Virginia. I have years of experience working in both clinical and administrative positions, and I am drawn to fast-paced and dynamic workplaces that require consistently learning new skills and being challenged. 
+
+#### I love to problem solve, and with this I have been drawn to the field of data analytics, excelling at data-informed decision making and implementing a continuous process improvements across a variety of professional roles within my career. 
+
+#### I have a dedicated interest in data sciences and am currently studying Functional Data Analytics at Penn State University, with a focus on improving processes and analyzing programs and policy. I've also completed multiple courses in Data Analytics prior to starting my degree program and while taking courses at Penn State. 
 
 <!--
 **katherineedaves/katherineedaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
